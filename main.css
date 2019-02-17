@@ -7,3 +7,42 @@
 article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
     display:block;
 }
+
+header{
+    background-color: #0b0133;
+    padding: 2%;
+}
+
+h1, h2{
+    text-align: center;
+    color: #ebf0ff;
+   
+}
+
+#generator-button, #generator-results{
+    text-align: center;
+    padding-top: 5%;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+button{
+    padding: 2%;
+    background-color: #ff5950;
+    border-radius: 8px
+}
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+footer{
+    width: 100%;
+    bottom: 0;
+   /* position: absolute;*/
+    background-color: #ebf0ff;
+    text-align: center;
+    padding: 2%;
+    
+}
